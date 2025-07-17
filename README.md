@@ -1,5 +1,6 @@
 # nudge-detector
 The nudge - fake news detection system
+Nudge harnesses the power of AI to intelligently curate, analyze, and deliver personalized news experiences across all your devices.
 
 <img width="1350" height="1540" alt="image" src="https://github.com/user-attachments/assets/a2196790-f356-4996-94ee-68211ba4f8e5" />
 
